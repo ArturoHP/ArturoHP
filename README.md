@@ -7,8 +7,8 @@ Lenguajes: <br>
 &nbsp;&nbsp;&nbsp;-Java +5000 Lineas<br>
 &nbsp;&nbsp;&nbsp;-JS +5000 Lineas<br>
 &nbsp;&nbsp;&nbsp;-PHP +2500 Lineas<br>
-&nbsp;&nbsp;&nbsp;-C# +1500 Lineas<br>
-&nbsp;&nbsp;&nbsp;-ASP.NET +1500 Lineas<br>
+&nbsp;&nbsp;&nbsp;-C# +2000 Lineas<br>
+&nbsp;&nbsp;&nbsp;-ASP.NET +2000 Lineas<br>
 &nbsp;&nbsp;&nbsp;-Python +1000 Lineas<br>
 &nbsp;&nbsp;&nbsp;-C++ +1000 Lineas<br>
     
