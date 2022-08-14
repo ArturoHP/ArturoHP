@@ -1,4 +1,6 @@
-## Hola, soy Arturo 💻💜
+## Hola, soy Arturo Peña 💻💜
+<br>Por el momento tengo todos mis repositorios en privado<br>
+
 Actualmente tengo 19 años y me considero un desarrollador con la pasión por la programación necesaria para sobresalir <br>
 +3 Años de experiencia siendo Desarrollador Fullstack <br>
 +4 Años de experiencia trabajando con Java en el ambiente de desarrollo de apps nativas <br>
