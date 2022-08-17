@@ -28,7 +28,7 @@ DBs<br>
     &nbsp;&nbsp;&nbsp;-Firebase<br>
     &nbsp;&nbsp;&nbsp;-Firestore<br>
 
-- 💼 Actualmente trabajo en MR Presta 
+- 💼 Actualmente trabajo en MR Presta como Desarrollador Fullstack
 - 🔭 Estudiando una Ingenieria en Tecnologia de Software
 - 📫 Me pueden contactar a traves de: arturo.pena2002@gmail.com
 - ⚡ Dato Curioso: Al inicio me daba miedo html y preferia enfocarme solamente en desarrollo en android
