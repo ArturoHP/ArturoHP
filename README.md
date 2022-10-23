@@ -6,21 +6,22 @@ Actualmente tengo 19 años y me considero un desarrollador con la pasión por la
 +4 Años de experiencia trabajando con Java en el ambiente de desarrollo de apps nativas <br>
 
 Lenguajes: <br>
-&nbsp;&nbsp;&nbsp;-Java +5000 Lineas<br>
-&nbsp;&nbsp;&nbsp;-JS +5000 Lineas<br>
-&nbsp;&nbsp;&nbsp;-Typescript +5000 Lineas<br>
-&nbsp;&nbsp;&nbsp;-PHP +3500 Lineas<br>
-&nbsp;&nbsp;&nbsp;-C# +2500 Lineas<br>
-&nbsp;&nbsp;&nbsp;-ASP.NET +2000 Lineas<br>
-&nbsp;&nbsp;&nbsp;-Python +1500 Lineas<br>
-&nbsp;&nbsp;&nbsp;-C++ +1000 Lineas<br>
+&nbsp;&nbsp;&nbsp;-Java<br>
+&nbsp;&nbsp;&nbsp;-JavaScript<br>
+&nbsp;&nbsp;&nbsp;-TypeScript<br>
+&nbsp;&nbsp;&nbsp;-PHP<br>
+&nbsp;&nbsp;&nbsp;-Python<br>
+&nbsp;&nbsp;&nbsp;-C#<br>
+&nbsp;&nbsp;&nbsp;-C++<br>
+&nbsp;&nbsp;&nbsp;-C<br>
     
-Frameworks JS<br>
+Global Frameworks<br>
     &nbsp;&nbsp;&nbsp;-Angular<br>
+    &nbsp;&nbsp;&nbsp;-AngularJS<br>
     &nbsp;&nbsp;&nbsp;-React<br>
     &nbsp;&nbsp;&nbsp;-NodeJs<br>
-        
-        
+    &nbsp;&nbsp;&nbsp;-ASP.NET<br>
+
 DBs<br>
     &nbsp;&nbsp;&nbsp;-MySql<br>
     &nbsp;&nbsp;&nbsp;-PostgreSQL<br>
