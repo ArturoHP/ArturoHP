@@ -38,7 +38,7 @@ DBs<br>
 
  Me encanta programar, me apasiona la resolución de problemas
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturoHP)](https://github.com/ArturoHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoHP)](https://github.com/ArturoHP/github-readme-stats)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177794769&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
