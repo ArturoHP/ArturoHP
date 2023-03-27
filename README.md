@@ -17,7 +17,8 @@ Lenguajes: <br>
     
 Global Frameworks<br>
     &nbsp;&nbsp;&nbsp;-Angular<br>
-    &nbsp;&nbsp;&nbsp;-AngularJS<br>
+    &nbsp;&nbsp;&nbsp;-Ionic<br>
+    &nbsp;&nbsp;&nbsp;-Angular.JS<br>
     &nbsp;&nbsp;&nbsp;-React<br>
     &nbsp;&nbsp;&nbsp;-NodeJs<br>
     &nbsp;&nbsp;&nbsp;-ASP.NET<br>
