@@ -23,12 +23,4 @@ Actualmente tengo 21 años y me considero un desarrollador con la pasión por la
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ArturoHP&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177794769&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
