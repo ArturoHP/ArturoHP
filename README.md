@@ -1,12 +1,11 @@
 ## Hola, soy Arturo Peña 💻💜
 
-Actualmente tengo 21 años y me considero un desarrollador con la pasión por la programación necesaria para sobresalir <br>
-+4 Años de experiencia siendo Desarrollador Fullstack <br>
-+4 Años y medio de experiencia trabajando con Java en el ambiente de desarrollo de apps nativas <br>
+Actualmente tengo 22 años y me considero un desarrollador con la pasión por la programación necesaria para sobresalir <br>
++6 Años de experiencia siendo Desarrollador Fullstack <br>
 
 # 💫 Acerca de mi:
 💼 Actualmente trabajo en MR Presta como Desarrollador Fullstack
-🔭 Estudiando una Ingenieria en Tecnologia de Software
+🔭 Estudiando una Ingenieria en Computación Administrativa
 📫 Me pueden contactar a traves de: arturo.pena2002@gmail.com
 ⚡ Dato Curioso: Al inicio me daba miedo html y preferia enfocarme solamente en desarrollo en android
 
