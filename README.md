@@ -21,9 +21,9 @@ Especializado en arquitecturas distribuidas, pasarelas transaccionales Fintech y
 
 Ingeniero y desarrollador Full-Stack con más de 6 años de experiencia en el diseño, desarrollo y despliegue de soluciones transaccionales de alta concurrencia. Especializado en arquitecturas limpias de microservicios, seguridad criptográfica y optimización de bases de datos relacionales.
 
-* **Rol actual:** Senior Full-Stack Developer & Technical Lead en MR Presta.
+* **Rol actual:** Senior Full-Stack Developer en MR Presta.
 * **Especialidad técnica:** Seguridad en transporte de datos (firmas HMAC, cifrado simétrico AES), pipelines transaccionales y microservicios orientados a eventos.
-* **Formación académica:** Ingeniería en Sistemas / Computación Administrativa.
+* **Formación académica:** Ingeniería en Computación Administrativa (Tecmilenio).
 
 ---
 
