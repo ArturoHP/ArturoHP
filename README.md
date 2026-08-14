@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 💻 Arturo Peña
+  # Arturo Peña
   ### **Senior Full-Stack Developer & Tech Lead**
 
   *Especializado en arquitecturas escalables, diseño de APIs robustas y ecosistemas web/cloud de alto rendimiento.*
@@ -17,16 +17,16 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 💼 **Posición actual:** Senior Full-Stack Developer & Tech Lead en **MR Presta**.
-- 🛠️ **Enfoque principal:** Arquitectura backend escalable, optimización de bases de datos relacionales y microservicios.
-- 🎓 **Educación:** Ingeniería en Sistemas / Computación Administrativa.
-- ⚡ **Fun Fact:** Mis primeros proyectos fueron en desarrollo móvil nativo de Android porque en ese momento evitaba CSS/HTML a toda costa.
+- **Posición actual:** Senior Full-Stack Developer & Tech Lead en **MR Presta**.
+- **Enfoque principal:** Arquitectura backend escalable, optimización de bases de datos relacionales y microservicios.
+- **Educación:** Ingeniería en Sistemas / Computación Administrativa.
+- **Fun Fact:** Mis primeros proyectos fueron en desarrollo móvil nativo de Android porque en ese momento evitaba CSS/HTML a toda costa.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📌 Arquitectura & Competencias Clave
+### Arquitectura & Competencias Clave
 
 | Área | Tecnologías & Herramientas |
 | :--- | :--- |
@@ -60,15 +60,15 @@
 
 ---
 
-### 📊 Actividad en GitHub
+### Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AQUI_TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQUI_TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" height="150" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AQUI_TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
