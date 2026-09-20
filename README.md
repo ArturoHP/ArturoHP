@@ -22,7 +22,7 @@ Especializado en arquitecturas distribuidas, pasarelas transaccionales Fintech y
 
 Ingeniero y desarrollador Full-Stack con más de 6 años de experiencia en el diseño, desarrollo y despliegue de soluciones transaccionales de alta concurrencia. Especializado en arquitecturas limpias de microservicios, seguridad criptográfica y optimización de bases de datos relacionales.
 
-* **Actividad actual:** Senior Full-Stack Developer en MR Presta & Fundador en [Nymm](https://nymm.onrender.com).
+* **Actividad actual:** Senior Full-Stack Developer en MR Presta & Fundador en [Nymm](https://nymm.studio).
 * **Especialidad técnica:** Seguridad en transporte de datos (firmas HMAC, cifrado simétrico AES), pipelines transaccionales y microservicios orientados a eventos.
 * **Formación académica:** Ingeniería en Computación Administrativa (Tecmilenio).
 
