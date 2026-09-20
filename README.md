@@ -74,7 +74,7 @@ Ingeniero y desarrollador Full-Stack con más de 6 años de experiencia en el di
 
 ### Proyectos y Soluciones
 
-* **Ecosistema Nymm ([nymm.onrender.com](https://nymm.onrender.com)):** Desarrollo de productos digitales y plataformas SaaS orientadas a resolver flujos operativos y administrativos complejos.
+* **Ecosistema Nymm ([nymm.studio](https://nymm.studio)):** Desarrollo de productos digitales y plataformas SaaS orientadas a resolver flujos operativos y administrativos complejos.
 * **Motor Contable Transaccional:** Microservicio para la generación y conciliación de asientos contables a partir de eventos transaccionales de dispersión y recaudación de cartera.
 * **Plataformas SaaS:** Arquitectura e implementación de sistemas multi-tenant con integración de cobros automatizados, pasarelas de pago y autenticación segura.
 * **Sistemas de Automatización:** Desarrollo de herramientas de procesamiento de datos y software especializado con interfaces orientadas a rendimiento.
